@@ -2,5 +2,3 @@ class Dog
 
 
 end
-
-
